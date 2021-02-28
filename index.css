@@ -25,7 +25,7 @@ h4{
 }
 div{
     color: indigo;
-    font-style: italic;
+    font-style: bold;
 }
 img{
     height: 200;
@@ -33,5 +33,5 @@ img{
     display: flex;
 }
 *{
-    background-color: blue;
+    background-color: palegoldenrod;
 }
