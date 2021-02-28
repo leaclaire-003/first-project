@@ -1,0 +1,37 @@
+h1{
+    font-weight: 600;
+    color: red;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 20px;
+    border-color:blue;
+    border-style: solid;
+    }
+h2{
+    border: brown;
+    border-radius: 20px;
+    border-color: blue;
+    color: brown;
+    font-weight: 400;
+    border-style: solid;
+}
+h4{
+    font-size: larger;
+    border-radius: 20px;
+    border-color: blue;
+    font-weight: 400;
+    border-style: solid;
+    color: brown;
+}
+div{
+    color: indigo;
+    font-style: italic;
+}
+img{
+    height: 200;
+    width: 300;
+    display: flex;
+}
+*{
+    background-color: palegoldenrod;
+}
